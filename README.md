@@ -1,1 +1,1 @@
-# test-GNINA
+# test-GNINA for assessment
